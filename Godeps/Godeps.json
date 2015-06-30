@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/misakwa/elbannouncer",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/goamz/goamz/aws",
+			"Rev": "50f393d45473b635cab34f2b3e0bbcd103df29dc"
+		},
+		{
+			"ImportPath": "github.com/goamz/goamz/elb",
+			"Rev": "50f393d45473b635cab34f2b3e0bbcd103df29dc"
+		},
+		{
+			"ImportPath": "github.com/vaughan0/go-ini",
+			"Rev": "a98ad7ee00ec53921f08832bc06ecf7fd600e6a1"
+		}
+	]
+}
